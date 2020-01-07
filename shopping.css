@@ -1,0 +1,17 @@
+.adidas{
+    width:200px;
+    height: 200px;
+}
+.heartfaten{
+    fill:green;
+}
+.title-p{
+    margin-left: 110px;
+    color:green ;
+    font-size: 29px ;
+    font-weight: bold;
+    background-color: gray;
+}
+.drop{
+   margin-right: 60px;
+}
